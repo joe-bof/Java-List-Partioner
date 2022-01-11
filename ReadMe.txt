@@ -3,7 +3,7 @@
 CS 324
 Professor Kazarinov
 
-Description: A program that will solve the problem: For a given ListADT that contains Items with numerical key value (integer), it will be reordered it into two partitions of equal size such as the difference between the sum of those integers in the first partition and the second partition is minimal. 
+Description: My crack at a program that will solve the problem: For a given ListADT that contains Items with numerical key value (integer), it will be reordered it into two partitions of equal size such as the difference between the sum of those integers in the first partition and the second partition is minimal. 
 
 Files Included:  
 
