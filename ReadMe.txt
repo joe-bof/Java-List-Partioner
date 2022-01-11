@@ -9,7 +9,7 @@ Files Included:
 
 BofaniCS324ListADTApp.java --> application class.
 CS324ListADT.java --> sorting and partioning program.
-BofaniReadMe.txt --> text descriptions of files.
+ReadMe.txt --> text descriptions of files.
 
 
 To run call: Enter the desired ArrayList into the sumParts() method.
