@@ -3,14 +3,7 @@
 CS 324
 Professor Kazarinov
 
-Description: My crack at a program that will solve the problem: For a given ListADT that contains Items with numerical key value (integer), it will be reordered it into two partitions of equal size such as the difference between the sum of those integers in the first partition and the second partition is minimal. 
-
-Files Included:  
-
-BofaniCS324ListADTApp.java --> application class.
-CS324ListADT.java --> sorting and partioning program.
-ReadMe.txt --> text descriptions of files.
-
+Description: My crack at a program that will solve the problem: For a given ListADT that contains Items with numerical key value (integer), it will be reordered it into two partitions of equal size such as the difference between the sum of those integers in the first partition and the second partition is minimal.   
 
 To run call: Enter the desired ArrayList into the sumParts() method.
 
@@ -43,4 +36,11 @@ Example:  List=1,2,3,4,5,6,7,8,9,10
    p0=[10,7,5,4]    p1=[9,8,6]
    p0=[10,7,5,4]    p1=[9,8,6,3]
    p0=[10,7,5,4]    p1=[9,8,6,3,2]
-   p0=[10,7,5,4,1]  p1=[9,8,6,3,2]
+   p0=[10,7,5,4,1]  p1=[9,8,6,3,2]  
+
+
+Files Included:  
+
+BofaniCS324ListADTApp.java --> application class.
+CS324ListADT.java --> sorting and partioning program.
+ReadMe.txt --> text descriptions of files.
