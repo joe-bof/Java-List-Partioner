@@ -39,7 +39,7 @@ Example:  List=1,2,3,4,5,6,7,8,9,10
    p0=[10,7,5,4,1]  p1=[9,8,6,3,2]  
 
 
-Files Included:  
+Files Included (3):  
 
 BofaniCS324ListADTApp.java --> application class.
 CS324ListADT.java --> sorting and partioning program.
